@@ -1,0 +1,9 @@
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\bin\Debug\Cards4Clarke.exe.config
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\bin\Debug\Cards4Clarke.exe
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\bin\Debug\Cards4Clarke.pdb
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\obj\Debug\Cards4Clarke.csprojAssemblyReference.cache
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\obj\Debug\Cards4Clarke.pokerForm.resources
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\obj\Debug\Cards4Clarke.Properties.Resources.resources
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\obj\Debug\Cards4Clarke.csproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\obj\Debug\Cards4Clarke.exe
+C:\Users\jdwoo090\source\repos\Cards4Clarke\Cards4Clarke\obj\Debug\Cards4Clarke.pdb
